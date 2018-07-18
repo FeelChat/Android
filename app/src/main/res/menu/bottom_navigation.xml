@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_item_message"
+        android:icon="@drawable/nav_message"
+        android:title="@string/nav_item_message"/>
+    <item
+        android:id="@+id/nav_item_contact"
+        android:icon="@drawable/nav_contact"
+        android:title="@string/nav_item_contact"/>
+    <item
+        android:id="@+id/nav_item_my"
+        android:icon="@drawable/nav_my"
+        android:title="@string/nav_item_my"/>
+
+</menu>

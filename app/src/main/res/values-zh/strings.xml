@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">飞信</string>
+    <string name="nav_item_message">信息</string>
+    <string name="nav_item_contact">通讯录</string>
+    <string name="nav_item_my">我</string>
 </resources>
